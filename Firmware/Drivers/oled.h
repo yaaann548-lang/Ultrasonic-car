@@ -1,6 +1,7 @@
-#ifndef CAR_PROJECT_OLED_H
-#define CAR_PROJECT_OLED_H
-
-/* TODO: Add module declarations. */
-
+#ifndef OLED_H
+#define OLED_H
+#include "board.h"
+u8 OLED_Init(void);
+void OLED_Text(u8 page, char *text);
+u8 OLED_Ready(void);
 #endif

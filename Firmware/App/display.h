@@ -1,6 +1,5 @@
-#ifndef CAR_PROJECT_DISPLAY_H
-#define CAR_PROJECT_DISPLAY_H
-
-/* TODO: Add module declarations. */
-
+#ifndef DISPLAY_H
+#define DISPLAY_H
+void Display_Init(void);
+void Display_Task(void);
 #endif
