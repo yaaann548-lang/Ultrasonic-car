@@ -1,5 +1,7 @@
 Firmware/Objects/
 Firmware/Listings/
+5q/Objects/
+5q/Listings/
 *.uvgui.*
 *.uvguix.*
 *.bak
